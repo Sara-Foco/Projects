@@ -1,2 +1,3 @@
-2026/03/03-17:49:25.710 6e44 Creating DB C:\Users\SARA\Documents\GitHub\Projects\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata since it was missing.
-2026/03/03-17:49:25.723 6e44 Reusing MANIFEST C:\Users\SARA\Documents\GitHub\Projects\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/03-17:50:52.291 704 Reusing MANIFEST C:\Users\SARA\Documents\GitHub\Projects\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/03-17:50:52.292 704 Recovering log #3
+2026/03/03-17:50:52.293 704 Reusing old log C:\Users\SARA\Documents\GitHub\Projects\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db\metadata/000003.log 
